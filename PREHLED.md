@@ -2,9 +2,9 @@
 
 Stav k 25. 11. 2026 (generuje `python tools/prehled.py`).
 
-- **1415 knih** (matrika 1328, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
+- **1433 knih** (matrika 1346, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
 - **10 315 stran** převedených strojově (PERO OCR), **2 027 629 řádků** strojového textu – nekontrolovaný, slouží k hledání
-- **55 078 zápisů přečtených očima**: narození 21276, sňatky 9260, úmrtí 23191, převody gruntů 63, soupisy 203, jiné 1056
+- **55 114 zápisů přečtených očima**: narození 21285, sňatky 9271, úmrtí 23207, převody gruntů 63, soupisy 203, jiné 1056
 
 Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečtené člověkem nebo modelem se zdrojem a jistotou (N narození, O sňatky, Z úmrtí, P převody gruntů, S soupisy, J jiné). Skeny v indexu nejsou – odkaz vede na portál archivu.
 
@@ -1174,10 +1174,16 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [564](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=564&folium=676) | policejní přihlášky |  |  |  | 2 (S 2) |
 | [596](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=596&folium=258) | policejní přihlášky |  |  |  | 4 (S 4) |
 
-## FamilySearch – digitalizované fondy českých archivů (58)
+## FamilySearch – digitalizované fondy českých archivů (72)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
+| [Uničov (fara), N Uničov 1795–1833, FS vol. 7986 – snímky ZA Opava na FamilySearch, film DGS 005386901](https://www.familysearch.org/search/film/005386901) | matrika | 1795–1833 |  |  | 1 (N 1) |
+| [Uničov (fara), N Uničov 1851–1862, sign. U I 8, inv. č. 7989 – snímky ZA Opava na FamilySearch, film DGS 005386905](https://www.familysearch.org/search/film/005386905) | matrika | 1851–1862 |  |  | 2 (N 2) |
+| [Uničov (fara), O Uničov 1836–1890, sign. U I 18, inv. č. 7999 – snímky ZA Opava na FamilySearch, film DGS 005386916](https://www.familysearch.org/search/film/005386916) | matrika | 1836–1890 |  |  | 3 (O 3) |
+| [Uničov (fara), Z Uničov 1835–1868, inv. č. 8003 – snímky ZA Opava na FamilySearch, film DGS 005386920](https://www.familysearch.org/search/film/005386920) | matrika | 1835–1868 |  |  | 2 (Z 2) |
+| [Uničov (fara), Z Uničov 1869–1894, inv. č. 8004 – snímky ZA Opava na FamilySearch, film DGS 005386921](https://www.familysearch.org/search/film/005386921) | matrika | 1869–1894 |  |  | 1 (Z 1) |
+| [O Dětřichov (Dittersdorf u Uničova), Renoty, Střelice 1790–1880, sign. U VIII 9, inv. č. 8095 – snímky ZA Opava na FamilySearch, film DGS 005387017](https://www.familysearch.org/search/film/005387017) | matrika | 1790–1880 |  |  | 1 (O 1) |
 | [Nový Jičín (fara), O Nový Jičín 1843–1872, Tom. IV (vol. 1985, ř.-k. fara Nový Jičín), německy – snímky ZA Opava na FamilySearch, film DGS 005387875](https://www.familysearch.org/search/film/005387875) | matrika | 1843–1872 |  |  | 1 (O 1) |
 | [Palkovice (fara), N, O, Z Palkovice 1748–1783, vol. 1595, latinsky – snímky ZA Opava na FamilySearch, film DGS 005388142](https://www.familysearch.org/search/film/005388142) | matrika | 1748–1783 |  |  | 5 (N 3 O 2) |
 | [Čeladná (fara), O Čeladná 1784–1842, vol. 1665 – snímky ZA Opava na FamilySearch, film DGS 005388212](https://www.familysearch.org/search/film/005388212) | matrika | 1784–1842 |  |  | 1 (O 1) |
@@ -1196,6 +1202,8 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Palkovice (fara), O Palkovice 1784–1815, vol. 1749 – snímky ZA Opava na FamilySearch, film DGS 005388298](https://www.familysearch.org/search/film/005388298) | matrika | 1784–1815 |  |  | 1 (O 1) |
 | [Staříč (fara), N Stará Staříč 1784–1857, vol. 1791, sign. M XII 3 – snímky ZA Opava na FamilySearch, film DGS 005388340](https://www.familysearch.org/search/film/005388340) | matrika | 1784–1857 |  |  | 1 (N 1) |
 | [Staříč (fara), Z Nová a Stará Staříč 1784–1876, vol. 1792 – snímky ZA Opava na FamilySearch, film DGS 005388341](https://www.familysearch.org/search/film/005388341) | matrika | 1784–1876 |  |  | 6 (Z 6) |
+| [Uničov (fara), Z Uničov 1895–1926, sign. U I 28, inv. č. 10053 – snímky ZA Opava na FamilySearch, film DGS 005389792](https://www.familysearch.org/search/film/005389792) | matrika | 1895–1926 |  |  | 5 (Z 5) |
+| [Uničov (fara), Z Uničov 1895–1926, sign. U I 28, inv. č. 10053 – druhá část – snímky ZA Opava na FamilySearch, film DGS 005389793](https://www.familysearch.org/search/film/005389793) | matrika | 1895–1926 |  |  | 1 (Z 1) |
 | [N, O, Z fary Valašské Meziříčí 1670–1711, vol. 2165 (inv. č. 2165), 1. část – snímky ZA Opava na FamilySearch, film DGS 005390402](https://www.familysearch.org/search/film/005390402) | matrika | 1670–1711 |  |  | 5 (N 2 O 2 Z 1) |
 | [N, Z fary Valašské Meziříčí 1714–1723, vol. 2166 (inv. č. 2166) – snímky ZA Opava na FamilySearch, film DGS 005390404](https://www.familysearch.org/search/film/005390404) | matrika | 1714–1723 |  |  | 1 (Z 1) |
 | [N, O fary Valašské Meziříčí 1712–1769, inv. č. 2167 (vol. 2167, 1. část – křty do II/1769), latinsky – snímky ZA Opava na FamilySearch, film DGS 005390405](https://www.familysearch.org/search/film/005390405) | matrika | 1712–1769 |  |  | 13 (N 13) |
@@ -1221,6 +1229,12 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Slezská Ostrava (fara), N Slezská Ostrava a okolí 1894–1896, vol. 3101, Tom. IX – snímky ZA Opava na FamilySearch, film DGS 005392483](https://www.familysearch.org/search/film/005392483) | matrika | 1894–1896 |  |  | 2 (N 2) |
 | [Slezská Ostrava (fara), O Slezská Ostrava a okolí 1892–1900, vol. 3106, Tom. V – snímky ZA Opava na FamilySearch, film DGS 005392490](https://www.familysearch.org/search/film/005392490) | matrika | 1892–1900 |  |  | 1 (O 1) |
 | [Slezská Ostrava (fara), Z, I-Z Františkov, Hladnov, Hranečník, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1871–1893, sign. SO VII 28, inv. č. 3108, německy – snímky ZA Opava na FamilySearch, film DGS 005392492](https://www.familysearch.org/search/film/005392492) | matrika | 1871–1893 |  |  | 2 (Z 2) |
+| [Šenov (fara), N Šenov, Bartovice, Petřvald, Řepiště, Václavovice 1740–1771 (celá fara chronologicky, latinsky, bez rejstříku), FS vol. 3113 – snímky ZA Opava na FamilySearch, film DGS 005392496](https://www.familysearch.org/search/film/005392496) | matrika | 1740–1771 |  |  | 3 (N 3) |
+| [Šenov (fara), N Šenov, Bartovice, Petřvald, Řepiště, Václavovice 1772–1792 (celá fara chronologicky), sign. SO VIII 4 – snímky ZA Opava na FamilySearch, film DGS 005392497](https://www.familysearch.org/search/film/005392497) | matrika | 1772–1792 |  |  | 2 (N 2) |
+| [Šenov (fara), O Šenov, Bartovice, Petřvald, Řepiště, Václavovice 1719–1783 (celá fara chronologicky, latinsky, bez rejstříku), FS vol. 3116 – snímky ZA Opava na FamilySearch, film DGS 005392499](https://www.familysearch.org/search/film/005392499) | matrika | 1719–1783 |  |  | 1 (O 1) |
+| [Šenov (fara), O Šenov, Bartovice, Petřvald, Václavovice aj. 1784–1840, sign. SO VIII 14 – snímky ZA Opava na FamilySearch, film DGS 005392507](https://www.familysearch.org/search/film/005392507) | matrika | 1784–1840 |  |  | 4 (O 4) |
+| [Šenov (fara), Z Šenov, Bartovice, Petřvald, Václavovice 1782–1809 (kniha po obcích) – snímky ZA Opava na FamilySearch, film DGS 005392508](https://www.familysearch.org/search/film/005392508) | matrika | 1782–1809 |  |  | 5 (Z 5) |
+| [Šenov (fara), O, I-O Bartovice, Šenov, Václavovice 1841–1870, sign. SO VIII 16, inv. č. 3126 – snímky ZA Opava na FamilySearch, film DGS 005392509](https://www.familysearch.org/search/film/005392509) | matrika | 1841–1870 |  |  | 1 (O 1) |
 | [Slezská Ostrava (fara), Z Slezská Ostrava a okolí 1908–1917 = SO VII 33 – snímky ZA Opava na FamilySearch, film DGS 005392829](https://www.familysearch.org/search/film/005392829) | matrika | 1908–1917 |  |  | 1 (Z 1) |
 | [Zašová (fara), N, O, Z Zašová 1785–1853, inv. č. 2346 – snímky ZA Opava na FamilySearch, film DGS 005393023](https://www.familysearch.org/search/film/005393023) | matrika | 1785–1853 |  |  | 1 (O 1) |
 | [Kostelec nad Vltavou, oddaní 1785–1828 (Marriages v. 5; SOA Třeboň, Kostelec nad Vltavou 5)](https://www.familysearch.org/search/catalog/olib:3041041) | matrika | 1785–1828 |  |  | 35 (O 35) |
@@ -1237,12 +1251,6 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [MZA, Batelov, pozemková kniha dominikálních domků (židovské domy) B04900, 1791–1850 (FamilySearch DGS 104715711)](https://www.familysearch.org/search/film/104715711) | pozemková kniha | 1791–1850 |  |  | 4 (J 1 P 3) |
 | [MZA, Batelov, pozemková kniha domů městečka B04888 („Hauptbuch der Gemeinde Battelau“), 1779–1882 (FamilySearch DGS 104818118)](https://www.familysearch.org/search/film/104818118) | pozemková kniha | 1779–1882 |  |  | 4 (P 4) |
 
-## zob (1)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
-
 ## nacr (10)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1258,17 +1266,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
 | [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
 
-## ndk (5)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
-| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
-| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
-
-## zaopava (207)
+## zaopava (211)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1344,6 +1342,8 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Šenov (fara), N, I-N Šenov 1867–1897, sign. SO VIII 10, inv. č. 3120](https://digi.archives.cz/da/permalink/be8963f6-f13c-102f-8255-0050568c0263) | matrika | 1867–1897 |  |  | 1 (N 1) |
 | [Šenov (fara), O, I-O Bartovice, Petřvald, Řepiště, Šenov, Václavovice 1784–1840, sign. SO VIII 14, inv. č. 3124](https://digi.archives.cz/da/permalink/be8965f4-f13c-102f-8255-0050568c0263) | matrika | 1784–1840 |  |  | 2 (O 2) |
 | [Šenov (fara), O, I-O Bartovice, Šenov, Václavovice 1841–1870, sign. SO VIII 16, inv. č. 3126](https://digi.archives.cz/da/permalink/be8966ee-f13c-102f-8255-0050568c0263) | matrika | 1841–1870 |  |  | 1 (O 1) |
+| [Šenov (fara), Z, I-Z Šenov 1810–1908, sign. SO VIII 19, inv. č. 3129, německy](https://digi.archives.cz/da/permalink/be896860-f13c-102f-8255-0050568c0263) | matrika | 1810–1908 |  |  | 1 (Z 1) |
+| [Šenov (fara), Z, I-Z Bartovice 1810–1908, sign. SO VIII 22, inv. č. 3132, německy](https://digi.archives.cz/da/permalink/be8969c8-f13c-102f-8255-0050568c0263) | matrika | 1810–1908 |  |  | 1 (Z 1) |
 | [Šenov (fara), N Bartovice, Petřvald, Řepiště, Šenov, Václavovice 1772–1792, sign. SO VIII 4, inv. č. 3114](https://digi.archives.cz/da/permalink/be896130-f13c-102f-8255-0050568c0263) | matrika | 1772–1792 |  |  | 1 (N 1) |
 | [Šenov (fara), N, I-N Šenov 1793–1839, sign. SO VIII 8, inv. č. 3118](https://digi.archives.cz/da/permalink/be896310-f13c-102f-8255-0050568c0263) | matrika | 1793–1839 |  |  | 1 (N 1) |
 | [Šenov (fara), N, I-N Šenov 1840–1866, sign. SO VIII 9, inv. č. 3119](https://digi.archives.cz/da/permalink/be896388-f13c-102f-8255-0050568c0263) | matrika | 1840–1866 |  |  | 2 (N 2) |
@@ -1353,8 +1353,10 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Ruda nad Moravou N 1779–1825, ZA Opava, NAD 165, sign. Šu XIV 5 (inv. 7909)](https://digi.archives.cz/da/permalink?xid=be93172a-f13c-102f-8255-0050568c0263) | matrika | 1779–1825 | 66 | 32068 | 32 (N 32) |
 | [Uničov (fara), N Uničov 1875–1887, sign. U I 10, inv. č. 7991](https://digi.archives.cz/da/permalink/be92ebd8-f13c-102f-8255-0050568c0263) | matrika | 1875–1887 |  |  | 1 (N 1) |
 | [Uničov (fara), O Uničov 1836–1890, sign. U I 18, inv. č. 7999](https://digi.archives.cz/da/permalink/be92e8ae-f13c-102f-8255-0050568c0263) | matrika | 1836–1890 |  |  | 1 (O 1) |
+| [Uničov (fara), N Uničov 1901–1914, sign. U I 25, inv. č. 10050](https://digi.archives.cz/da/permalink/be98b630-f13c-102f-8255-0050568c0263) | matrika | 1901–1914 |  |  | 1 (N 1) |
 | [Uničov (fara), O Uničov 1891–1911, sign. U I 26, inv. č. 10051](https://digi.archives.cz/da/permalink/be98b69e-f13c-102f-8255-0050568c0263) | matrika | 1891–1911 |  |  | 1 (O 1) |
 | [Uničov (fara), Z Uničov 1895–1926, sign. U I 28, inv. č. 10053](https://digi.archives.cz/da/permalink/be98b77a-f13c-102f-8255-0050568c0263) | matrika | 1895–1926 |  |  | 1 (Z 1) |
+| [Uničov (fara), O Uničov 1911–1943, sign. U I 35, inv. č. 12414](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:-2641c770:149084a24a7:-7f42) | matrika | 1911–1943 |  |  | 1 (O 1) |
 | [Uničov (fara), Z, I-Z Uničov 1937–1949, sign. U I 37, inv. č. 12766, pův. sign. 8](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:-2641c770:149084a24a7:-7f40) | matrika | 1937–1949 |  |  | 3 (Z 3) |
 | [Uničov (fara), N Uničov 1851–1862, sign. U I 8, inv. č. 7989](https://digi.archives.cz/da/permalink/be92ecb4-f13c-102f-8255-0050568c0263) | matrika | 1851–1862 |  |  | 1 (N 1) |
 | [Uničov (fara), N Uničov 1863–1874, sign. U I 9, inv. č. 7990](https://digi.archives.cz/da/permalink/be92ec46-f13c-102f-8255-0050568c0263) | matrika | 1863–1874 |  |  | 1 (N 1) |
@@ -1480,6 +1482,16 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1850–1898, sign. Zá IV 7, inv. č. 8382](https://digi.archives.cz/da/permalink/be97f934-f13c-102f-8255-0050568c0263) | matrika | 1850–1898 |  |  | 7 (N 7) |
 | [Dubicko (fara), O, I-O Bohuslavice, Brníčko, Dubicko, Hrabová, Kolšov, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 9, inv. č. 8384](https://digi.archives.cz/da/permalink/be97aa74-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 1 (O 1) |
 
+## ndk (5)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
+| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
+| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
+
 ## cuzk (8)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1492,3 +1504,9 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Defurovy Lažany (Laschan Desfours), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA330018370) | indikační skica stabilního katastru | 1837 |  |  | 4 (K 4) |
 | [Maňovice (Maniowitz), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu ve větším měřítku (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA380018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
 | [Dol (u Sedlic), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA426018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
+
+## zob (1)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
