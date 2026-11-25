@@ -1,0 +1,23 @@
+archiv: "portafontium"
+kniha: "myto-02"
+nazev: "Mýto 02"
+druh: "matrika"
+farnost: "Mýto"
+roky: "1706–1741"
+obsah: "N, O, Z 1706–1741; snímek = pořadí snímku na portálu"
+url: "https://www.portafontium.eu/register/soap-pn/myto-02"
+poznamka: "zápisy přečtené při práci na rodokmenu (Čmolíkové / Smolíkové na Zbirožsku); jen vybrané zápisy, ne celá kniha"
+import:
+  prefix: "myto-02"
+ocr:
+- soubor: "ocr-pero-czech.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "0c75f5d4-7b7e-49d4-b1d6-ade827bc52c4"
+  model: "Czech Handwritten"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-25"
+  export: "pf-myto-02-ch.pagexml.zip"
+  snimky: "1–289"
+  stranek: 289
+  radku: 55456
+  poznamka: "souřadnice v pixelech nahraného obrázku (viz stranky-pero-czech.tsv); text je strojový, nekontrolovaný"
