@@ -2,9 +2,9 @@
 
 Stav k 25. 11. 2026 (generuje `python tools/prehled.py`).
 
-- **1400 knih** (matrika 1313, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
+- **1415 knih** (matrika 1328, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
 - **10 315 stran** převedených strojově (PERO OCR), **2 027 629 řádků** strojového textu – nekontrolovaný, slouží k hledání
-- **55 046 zápisů přečtených očima**: narození 21262, sňatky 9253, úmrtí 23180, převody gruntů 63, soupisy 203, jiné 1056
+- **55 078 zápisů přečtených očima**: narození 21276, sňatky 9260, úmrtí 23191, převody gruntů 63, soupisy 203, jiné 1056
 
 Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečtené člověkem nebo modelem se zdrojem a jistotou (N narození, O sňatky, Z úmrtí, P převody gruntů, S soupisy, J jiné). Skeny v indexu nejsou – odkaz vede na portál archivu.
 
@@ -1174,10 +1174,12 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [564](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=564&folium=676) | policejní přihlášky |  |  |  | 2 (S 2) |
 | [596](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=596&folium=258) | policejní přihlášky |  |  |  | 4 (S 4) |
 
-## FamilySearch – digitalizované fondy českých archivů (54)
+## FamilySearch – digitalizované fondy českých archivů (58)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
+| [Nový Jičín (fara), O Nový Jičín 1843–1872, Tom. IV (vol. 1985, ř.-k. fara Nový Jičín), německy – snímky ZA Opava na FamilySearch, film DGS 005387875](https://www.familysearch.org/search/film/005387875) | matrika | 1843–1872 |  |  | 1 (O 1) |
+| [Palkovice (fara), N, O, Z Palkovice 1748–1783, vol. 1595, latinsky – snímky ZA Opava na FamilySearch, film DGS 005388142](https://www.familysearch.org/search/film/005388142) | matrika | 1748–1783 |  |  | 5 (N 3 O 2) |
 | [Čeladná (fara), O Čeladná 1784–1842, vol. 1665 – snímky ZA Opava na FamilySearch, film DGS 005388212](https://www.familysearch.org/search/film/005388212) | matrika | 1784–1842 |  |  | 1 (O 1) |
 | [Frýdlant nad Ostravicí (fara), N Frýdlant 1740–1784 – snímky ZA Opava na FamilySearch, film DGS 005388234](https://www.familysearch.org/search/film/005388234) | matrika | 1740–1784 |  |  | 4 (N 4) |
 | [Frýdlant nad Ostravicí (fara), O Frýdlant 1741–1784 – snímky ZA Opava na FamilySearch, film DGS 005388235](https://www.familysearch.org/search/film/005388235) | matrika | 1741–1784 |  |  | 1 (O 1) |
@@ -1190,6 +1192,8 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Staříč (fara), N Chlebovice 1784–1814, vol. 1710 – snímky ZA Opava na FamilySearch, film DGS 005388258](https://www.familysearch.org/search/film/005388258) | matrika | 1784–1814 |  |  | 1 (N 1) |
 | [Staříč (fara), O Chlebovice 1784–1813, vol. 1713 – snímky ZA Opava na FamilySearch, film DGS 005388261](https://www.familysearch.org/search/film/005388261) | matrika | 1784–1813 |  |  | 1 (O 1) |
 | [Staříč (fara), Z Chlebovice 1784–1854, vol. 1714 – snímky ZA Opava na FamilySearch, film DGS 005388262](https://www.familysearch.org/search/film/005388262) | matrika | 1784–1854 |  |  | 3 (Z 3) |
+| [Palkovice (fara), N Palkovice 1784–1804, vol. 1744, německy – snímky ZA Opava na FamilySearch, film DGS 005388293](https://www.familysearch.org/search/film/005388293) | matrika | 1784–1804 |  |  | 3 (N 3) |
+| [Palkovice (fara), O Palkovice 1784–1815, vol. 1749 – snímky ZA Opava na FamilySearch, film DGS 005388298](https://www.familysearch.org/search/film/005388298) | matrika | 1784–1815 |  |  | 1 (O 1) |
 | [Staříč (fara), N Stará Staříč 1784–1857, vol. 1791, sign. M XII 3 – snímky ZA Opava na FamilySearch, film DGS 005388340](https://www.familysearch.org/search/film/005388340) | matrika | 1784–1857 |  |  | 1 (N 1) |
 | [Staříč (fara), Z Nová a Stará Staříč 1784–1876, vol. 1792 – snímky ZA Opava na FamilySearch, film DGS 005388341](https://www.familysearch.org/search/film/005388341) | matrika | 1784–1876 |  |  | 6 (Z 6) |
 | [N, O, Z fary Valašské Meziříčí 1670–1711, vol. 2165 (inv. č. 2165), 1. část – snímky ZA Opava na FamilySearch, film DGS 005390402](https://www.familysearch.org/search/film/005390402) | matrika | 1670–1711 |  |  | 5 (N 2 O 2 Z 1) |
@@ -1233,35 +1237,6 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [MZA, Batelov, pozemková kniha dominikálních domků (židovské domy) B04900, 1791–1850 (FamilySearch DGS 104715711)](https://www.familysearch.org/search/film/104715711) | pozemková kniha | 1791–1850 |  |  | 4 (J 1 P 3) |
 | [MZA, Batelov, pozemková kniha domů městečka B04888 („Hauptbuch der Gemeinde Battelau“), 1779–1882 (FamilySearch DGS 104818118)](https://www.familysearch.org/search/film/104818118) | pozemková kniha | 1779–1882 |  |  | 4 (P 4) |
 
-## zob (1)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
-
-## cuzk (8)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Pulice (Gross Pulitz a Klein Pulitz), indikační skica 1840, Hradecký kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=HRA372018400) | indikační skica stabilního katastru | 1840 |  |  | 4 (K 4) |
-| [Libákovice (Libaken), indikační skica 1838, Klatovský kraj; ves na zvláštním listu (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=KLA222018380) | indikační skica stabilního katastru | 1838 |  |  | 5 (K 5) |
-| [Svojšice (Swoischitz) s Novou Vsí (Neudorf), indikační skica 1841, Kouřimský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=KRM398018410) | indikační skica stabilního katastru | 1841 |  |  | 5 (K 5) |
-| [Malý Bor (Klein Bor), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA043018370) | indikační skica stabilního katastru | 1837 |  |  | 1 (K 1) |
-| [Malé Hydčice, indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA188018370) | indikační skica stabilního katastru | 1837 |  |  | 4 (K 4) |
-| [Defurovy Lažany (Laschan Desfours), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA330018370) | indikační skica stabilního katastru | 1837 |  |  | 4 (K 4) |
-| [Maňovice (Maniowitz), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu ve větším měřítku (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA380018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
-| [Dol (u Sedlic), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA426018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
-
-## ndk (5)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
-| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
-| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
-
 ## nacr (10)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1277,7 +1252,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
 | [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
 
-## zaopava (196)
+## zaopava (207)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1300,7 +1275,11 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Tovačov (fara), N, I-N Arnoštov 1800–1854, sign. D XII 11, inv. č. 6123](https://digi.archives.cz/da/permalink/be96c186-f13c-102f-8255-0050568c0263) | matrika | 1800–1854 |  |  | 1 (N 1) |
 | [Tovačov (fara), O, I-O Ivaň 1784–1873, sign. D XII 26, inv. č. 6138](https://digi.archives.cz/da/permalink/be96aef8-f13c-102f-8255-0050568c0263) | matrika | 1784–1873 |  |  | 1 (O 1) |
 | [Tovačov (fara), N, Z, O Cvrčov, Chrbov, Ivaň, Klopotovice, Lobodice, Oplocany, Tovačov, Troubky, Věrovany, Viklice 1751–1771, sign. D XII 3, inv. č. 6115](https://digi.archives.cz/da/permalink/be96b290-f13c-102f-8255-0050568c0263) | matrika | 1751–1771 |  |  | 1 (N 1) |
+| [Frýdek (fara), Z Frýdek (město) 1902–1929, sign. Fr VII 26, inv. č. 10792, německy](https://digi.archives.cz/da/permalink/be917a1e-f13c-102f-8255-0050568c0263) | matrika | 1902–1929 |  |  | 1 (Z 1) |
 | [Francova Lhota (+ Valašská Senice) N 1787–1854, inv. č. 2497; rejstřík N 1787–1884 inv. č. 2499](https://digi.archives.cz/da/entityDetail/be88112c-f13c-102f-8255-0050568c0263) | matrika |  |  |  | 1 (N 1) |
+| [Místek (fara), N Sviadnov 1871–1901, sign. M I 35, inv. č. 1609, česky](https://digi.archives.cz/da/permalink/be865198-f13c-102f-8255-0050568c0263) | matrika | 1871–1901 |  |  | 1 (N 1) |
+| [Místek (fara), O Sviadnov 1852–1906, sign. M I 37, inv. č. 1611, česky (německé tiskopisy)](https://digi.archives.cz/da/permalink/be86527e-f13c-102f-8255-0050568c0263) | matrika | 1852–1906 |  |  | 1 (O 1) |
+| [Místek (fara), Z Sviadnov 1883–1949, sign. M I 87, inv. č. 13561, česky](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:-2f6a35b5:1416dd44d60:-7c9b) | matrika | 1883–1949 |  |  | 1 (Z 1) |
 | [Frýdlant nad Ostravicí (fara), N, I-N Frýdlant nad Ostravicí 1842–1857, sign. M VI 10, inv. č. 1692](https://digi.archives.cz/da/permalink/be867b1e-f13c-102f-8255-0050568c0263) | matrika | 1842–1857 |  |  | 2 (N 2) |
 | [Frýdlant nad Ostravicí (fara), N, I-N Frýdlant nad Ostravicí 1857–1870, sign. M VI 11, inv. č. 1693](https://digi.archives.cz/da/permalink/be867ba0-f13c-102f-8255-0050568c0263) | matrika | 1857–1870 |  |  | 2 (N 2) |
 | [Frýdlant nad Ostravicí (fara), N, I-N Frýdlant nad Ostravicí 1871–1895, sign. M VI 12, inv. č. 1694](https://digi.archives.cz/da/permalink/be867c0e-f13c-102f-8255-0050568c0263) | matrika | 1871–1895 |  |  | 1 (N 1) |
@@ -1318,12 +1297,19 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Stará Bělá (fara), N Stará Bělá 1784–1835, sign. MO VI 4, inv. č. 1880](https://digi.archives.cz/da/permalink/be86da50-f13c-102f-8255-0050568c0263) | matrika | 1784–1835 |  |  | 1 (N 1) |
 | [Nový Jičín (fara), N Nový Jičín 1836–1846, sign. NJ I 10, inv. č. 1980](https://digi.archives.cz/da/permalink/be870d54-f13c-102f-8255-0050568c0263) | matrika | 1836–1846 |  |  | 1 (N 1) |
 | [Nový Jičín (fara), O Nový Jičín 1784–1818, sign. NJ I 13](https://digi.archives.cz/da/permalink/be870ed0-f13c-102f-8255-0050568c0263) | matrika | 1784–1818 |  |  | 1 (O 1) |
-| [Nový Jičín (fara), Z Nový Jičín 1841–1860, sign. NJ I 19](https://digi.archives.cz/da/permalink/be871196-f13c-102f-8255-0050568c0263) | matrika | 1841–1860 |  |  | 1 (Z 1) |
+| [Nový Jičín (fara), Z Nový Jičín 1815–1840, sign. NJ I 18, inv. č. 1988, německy](https://digi.archives.cz/da/permalink/be87111e-f13c-102f-8255-0050568c0263) | matrika | 1815–1840 |  |  | 1 (Z 1) |
+| [Nový Jičín (fara), Z Nový Jičín 1841–1860, sign. NJ I 19](https://digi.archives.cz/da/permalink/be871196-f13c-102f-8255-0050568c0263) | matrika | 1841–1860 |  |  | 2 (Z 2) |
 | [Nový Jičín (fara), N Nový Jičín 1800–1819, sign. NJ I 8](https://digi.archives.cz/da/permalink/be870c64-f13c-102f-8255-0050568c0263) | matrika | 1800–1819 |  |  | 1 (N 1) |
 | [Nový Jičín (fara), N Nový Jičín 1820–1835, sign. NJ I 9, inv. č. 1979](https://digi.archives.cz/da/permalink/be870cf0-f13c-102f-8255-0050568c0263) | matrika | 1820–1835 |  |  | 2 (N 2) |
+| [Starý Jičín (fara), N Hůrka, Palačov, Starojická Lhota 1822–1892, sign. NJ X 10, inv. č. 2083](https://digi.archives.cz/da/permalink/be8740da-f13c-102f-8255-0050568c0263) | matrika | 1822–1892 |  |  | 4 (N 4) |
+| [Starý Jičín (fara), O Hůrka, Palačov, Starojická Lhota 1822–1902, sign. NJ X 15, inv. č. 2088](https://digi.archives.cz/da/permalink/be87431e-f13c-102f-8255-0050568c0263) | matrika | 1822–1902 |  |  | 1 (O 1) |
 | [Albrechtičky (fara), O, I-O Albrechtičky, Nová Horka 1784–1834, sign. P II 5, inv. č. 1369](https://digi.archives.cz/da/permalink/be85dbdc-f13c-102f-8255-0050568c0263) | matrika | 1784–1834 |  |  | 1 (O 1) |
+| [Kozlovice (fara), Z, O, I-Z, I-O Kozlovice 1888–1918, sign. P VI 12, inv. č. 8702](https://digi.archives.cz/da/permalink/be8eda48-f13c-102f-8255-0050568c0263) | matrika | 1888–1918 |  |  | 2 (O 1 Z 1) |
+| [Kozlovice (fara), N, I-N Kozlovice 1888–1917, sign. P VI 17, inv. č. 13515](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:2c7af293:146ec53500c:-7e1c) | matrika | 1888–1917 |  |  | 2 (N 2) |
+| [Kozlovice (fara), N, Z, O Lhotka 1786–1885, sign. P VI 4, inv. č. 1444](https://digi.archives.cz/da/permalink/be86006c-f13c-102f-8255-0050568c0263) | matrika | 1786–1885 |  |  | 1 (N 1) |
 | [Rychaltice (fara), N, O, Z Rychaltice, Dolní a Horní Sklenov, Hájov, Hukvaldy 1845–1870, sign. P XI 1 O 3 – opisy pro arcibiskupskou konzistoř](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:2025d8f4:14e2a490179:-7ffe) | matrika | 1845–1870 |  |  | 1 (N 1) |
-| [Hukvaldy (fara), Z Horní Sklenov a Hukvaldy 1886–1914, sign. P XIa 5, inv. č. 8710](https://digi.archives.cz/da/permalink/be8eddea-f13c-102f-8255-0050568c0263) | matrika | 1886–1914 |  |  | 2 (Z 2) |
+| [Rychaltice (fara), Z, I-Z Dolní Sklenov, Hájov, Rychaltice 1886–1949, sign. P XI 10, inv. č. 18278, česky](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:13335513:1461387f2e0:-7eb7) | matrika | 1886–1949 |  |  | 1 (Z 1) |
+| [Hukvaldy (fara), Z Horní Sklenov a Hukvaldy 1886–1914, sign. P XIa 5, inv. č. 8710](https://digi.archives.cz/da/permalink/be8eddea-f13c-102f-8255-0050568c0263) | matrika | 1886–1914 |  |  | 3 (Z 3) |
 | [Hukvaldy (fara), N, I-N Hukvaldy a Horní Sklenov 1892–1909, sign. P XIa 7, inv. č. 13128](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:13335513:1461387f2e0:-7ec0) | matrika | 1892–1909 |  |  | 4 (N 4) |
 | [Vlkoš (fara), O, I-O Bochoř, Chropyně, Kanovsko, Kyselovice, Plešovec, Věžky, Vlkoš, Záříčí 1704–1848, sign. Př XVII 8, inv. č. 7352](https://digi.archives.cz/da/permalink/be9443f2-f13c-102f-8255-0050568c0263) | matrika | 1704–1848 |  |  | 1 (O 1) |
 | [Slezská Ostrava (fara), N Františkov, Hladnov, Hranečník, Hrušov, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1861–1870 (Tom. V/a), sign. SO VII 11, inv. č. 3091](https://digi.archives.cz/da/permalink/be895442-f13c-102f-8255-0050568c0263) | matrika | 1861–1870 |  |  | 5 (N 5) |
@@ -1471,9 +1457,38 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Z, I-Z Nový Hrozenkov 1784–1833, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 9, inv. č. 2453](https://digi.archives.cz/da/permalink?xid=be87fc32-f13c-102f-8255-0050568c0263) | matrika | 1784–1833 |  |  | 4 (Z 4) |
 | [Dubicko (fara), O, I-O Bohuslavice, Dubicko, Hrabová, Třeština 1810–1862, sign. Zá IV 10, inv. č. 8385](https://digi.archives.cz/da/permalink/be97aaf6-f13c-102f-8255-0050568c0263) | matrika | 1810–1862 |  |  | 3 (O 3) |
 | [Dubicko (fara), O Bohuslavice, Dubicko, Hrabová, Třeština 1863–1898, sign. Zá IV 11, inv. č. 8386](https://digi.archives.cz/da/permalink/be97a9fc-f13c-102f-8255-0050568c0263) | matrika | 1863–1898 |  |  | 2 (O 2) |
-| [Dubicko (fara), Z, I-Z Bohuslavice, Dubicko, Hrabová, Třeština 1810–1871, sign. Zá IV 14, inv. č. 8389](https://digi.archives.cz/da/permalink/be97ac86-f13c-102f-8255-0050568c0263) | matrika | 1810–1871 |  |  | 1 (Z 1) |
+| [Dubicko (fara), Z, I-Z Bohuslavice, Dubicko, Hrabová, Třeština 1810–1871, sign. Zá IV 14, inv. č. 8389](https://digi.archives.cz/da/permalink/be97ac86-f13c-102f-8255-0050568c0263) | matrika | 1810–1871 |  |  | 5 (Z 5) |
 | [Dubicko (fara), Z, I-Z Bohuslavice, Dubicko, Hrabová, Třeština 1872–1912, sign. Zá IV 16, inv. č. 10093](https://digi.archives.cz/da/permalink/be98cb16-f13c-102f-8255-0050568c0263) | matrika | 1872–1912 |  |  | 1 (Z 1) |
 | [Dubicko (fara), N, I-N Bohuslavice, Brníčko, Dubicko, Hrabová, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 4, inv. č. 8379](https://digi.archives.cz/da/permalink/be97a704-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 4 (N 4) |
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1810–1849, sign. Zá IV 5, inv. č. 8380](https://digi.archives.cz/da/permalink/be97a79a-f13c-102f-8255-0050568c0263) | matrika | 1810–1849 |  |  | 3 (N 3) |
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1850–1898, sign. Zá IV 7, inv. č. 8382](https://digi.archives.cz/da/permalink/be97f934-f13c-102f-8255-0050568c0263) | matrika | 1850–1898 |  |  | 7 (N 7) |
 | [Dubicko (fara), O, I-O Bohuslavice, Brníčko, Dubicko, Hrabová, Kolšov, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 9, inv. č. 8384](https://digi.archives.cz/da/permalink/be97aa74-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 1 (O 1) |
+
+## ndk (5)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
+| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
+| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
+
+## zob (1)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
+
+## cuzk (8)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Pulice (Gross Pulitz a Klein Pulitz), indikační skica 1840, Hradecký kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=HRA372018400) | indikační skica stabilního katastru | 1840 |  |  | 4 (K 4) |
+| [Libákovice (Libaken), indikační skica 1838, Klatovský kraj; ves na zvláštním listu (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=KLA222018380) | indikační skica stabilního katastru | 1838 |  |  | 5 (K 5) |
+| [Svojšice (Swoischitz) s Novou Vsí (Neudorf), indikační skica 1841, Kouřimský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=KRM398018410) | indikační skica stabilního katastru | 1841 |  |  | 5 (K 5) |
+| [Malý Bor (Klein Bor), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA043018370) | indikační skica stabilního katastru | 1837 |  |  | 1 (K 1) |
+| [Malé Hydčice, indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA188018370) | indikační skica stabilního katastru | 1837 |  |  | 4 (K 4) |
+| [Defurovy Lažany (Laschan Desfours), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA330018370) | indikační skica stabilního katastru | 1837 |  |  | 4 (K 4) |
+| [Maňovice (Maniowitz), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu ve větším měřítku (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA380018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
+| [Dol (u Sedlic), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA426018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
