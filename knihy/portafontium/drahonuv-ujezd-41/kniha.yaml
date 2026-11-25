@@ -1,0 +1,22 @@
+archiv: "portafontium"
+kniha: "drahonuv-ujezd-41"
+nazev: "Drahoňův Újezd 41"
+druh: "matrika"
+farnost: "Drahoňův Újezd"
+roky: "1738–1782"
+obsah: "rejstřík A–Z k matrice narozených Drahoňův Újezd 03 (N 1738–1782); snímek = pořadí snímku na portálu"
+url: "https://www.portafontium.eu/register/soap-pn/drahonuv-ujezd-41"
+import:
+  prefix: "drahonuv-ujezd-41"
+ocr:
+- soubor: "ocr-pero-czech.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "7f1c4542-142c-49bd-9d62-ccd486ed4318"
+  model: "Czech Handwritten"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-25"
+  export: "pf-drahonuv-ujezd-41-ch.pagexml.zip"
+  snimky: "1–54"
+  stranek: 54
+  radku: 8100
+  poznamka: "souřadnice v pixelech nahraného obrázku (viz stranky-pero-czech.tsv); text je strojový, nekontrolovaný"

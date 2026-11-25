@@ -1,0 +1,22 @@
+archiv: "portafontium"
+kniha: "mirosov-03"
+nazev: "Mirošov 03"
+druh: "matrika"
+farnost: "Mirošov"
+roky: "1736–1759"
+obsah: "N 1738–1759, Z 1736–1754 (Mirošov, Dobřív, Hrádek, Kolvín, Nevid, Nová Huť, Padrť, Příkosice, Skořice, Štítov, Trokavec, Veselá, Vísky); snímek = pořadí snímku na portálu"
+url: "https://www.portafontium.eu/register/soap-pn/mirosov-03"
+import:
+  prefix: "mirosov-03"
+ocr:
+- soubor: "ocr-pero-czech.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "3871e142-68bf-4a68-b585-3ebea4222e96"
+  model: "Czech Handwritten"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-25"
+  export: "pf-mirosov-03-ch.pagexml.zip"
+  snimky: "1–225"
+  stranek: 225
+  radku: 28902
+  poznamka: "souřadnice v pixelech nahraného obrázku (viz stranky-pero-czech.tsv); text je strojový, nekontrolovaný"

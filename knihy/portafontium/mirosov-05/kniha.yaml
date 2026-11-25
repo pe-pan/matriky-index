@@ -1,0 +1,22 @@
+archiv: "portafontium"
+kniha: "mirosov-05"
+nazev: "Mirošov 05"
+druh: "matrika"
+farnost: "Mirošov"
+roky: "1740–1811"
+obsah: "O 1740–1811 (Mirošov, Dobřív, Hrádek, Kolvín, Nová Huť, Padrť, Příkosice, Skořice, Štítov, Trokavec, Veselá, Vísky); snímek = pořadí snímku na portálu"
+url: "https://www.portafontium.eu/register/soap-pn/mirosov-05"
+import:
+  prefix: "mirosov-05"
+ocr:
+- soubor: "ocr-pero-czech.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "d8371baa-585e-43f8-a0f1-1cccf3499dcc"
+  model: "Czech Handwritten"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-25"
+  export: "pf-mirosov-05-ch.pagexml.zip"
+  snimky: "1–163"
+  stranek: 163
+  radku: 35352
+  poznamka: "souřadnice v pixelech nahraného obrázku (viz stranky-pero-czech.tsv); text je strojový, nekontrolovaný"
