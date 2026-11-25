@@ -2,9 +2,9 @@
 
 Stav k 25. 11. 2026 (generuje `python tools/prehled.py`).
 
-- **1384 knih** (matrika 1297, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
+- **1400 knih** (matrika 1313, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
 - **10 315 stran** převedených strojově (PERO OCR), **2 027 629 řádků** strojového textu – nekontrolovaný, slouží k hledání
-- **54 991 zápisů přečtených očima**: narození 21251, sňatky 9245, úmrtí 23144, převody gruntů 63, soupisy 203, jiné 1056
+- **55 046 zápisů přečtených očima**: narození 21262, sňatky 9253, úmrtí 23180, převody gruntů 63, soupisy 203, jiné 1056
 
 Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečtené člověkem nebo modelem se zdrojem a jistotou (N narození, O sňatky, Z úmrtí, P převody gruntů, S soupisy, J jiné). Skeny v indexu nejsou – odkaz vede na portál archivu.
 
@@ -1064,7 +1064,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Smíchov – sv. Filip a Jakub, SM N21 (1879–1882)](https://katalog.ahmp.cz/pragapublica/permalink?xid=F4C9890E8A954B20B26FD49C2562CCB0) | matrika |  |  |  | 1 (N 1) |
 | [Žižkov, sv. Prokop, ŽKP Z4 (1906–1915)](https://katalog.ahmp.cz/pragapublica/permalink?xid=F88B2F66CDCE438E9CBB66DA29BBF7CC) | matrika |  |  |  | 4 (J 2 Z 2) |
 
-## Moravský zemský archiv – Acta Publica (90)
+## Moravský zemský archiv – Acta Publica (92)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1078,8 +1078,9 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Matriky, kniha č. 582 (fara Lomnice), 1905-1915](https://www.mza.cz/actapublica/matrika/detail/11008) | matrika |  |  |  | 2 (N 2) |
 | [Dyjákovice (fara), N, O, Z 1697–1722, kniha č. 13536 (Acta Publica id 1122)](https://www.mza.cz/actapublica/matrika/detail/1122) | matrika | 1697–1722 |  |  | 1 (N 1) |
 | [Dyjákovice (fara), N, O, Z 1723–1750, kniha č. 13537 (Acta Publica id 1123)](https://www.mza.cz/actapublica/matrika/detail/1123) | matrika | 1723–1750 |  |  | 1 (Z 1) |
-| [Novosedly (fara), O 1877–1942, kniha č. 3108 (Acta Publica id 11817)](https://www.mza.cz/actapublica/matrika/detail/11817) | matrika | 1877–1942 |  |  | 3 (O 3) |
+| [Novosedly (fara), O 1877–1942, kniha č. 3108 (Acta Publica id 11817)](https://www.mza.cz/actapublica/matrika/detail/11817) | matrika | 1877–1942 |  |  | 4 (O 4) |
 | [Bítov O 1874–1949, kniha 13407, Acta Publica id 12350 (část Vysočany 1878–1900 = sn. 54–67)](https://www.mza.cz/actapublica/matrika/detail/12350) | matrika |  |  |  | 2 (O 2) |
+| [Novosedly (fara), Z Novosedly 1897–1949, kniha č. 3112, tomus V, německy (Acta Publica id 12789)](https://www.mza.cz/actapublica/matrika/detail/12789) | matrika | 1897–1949 |  |  | 6 (Z 6) |
 | [O Otrokovice 1937–1947, kniha 4505, římskokatolická fara Otrokovice (okr. Zlín); rejstřík na konci knihy](https://www.mza.cz/actapublica/matrika/detail/12803) | matrika | 1937–1947 |  |  | 1 (O 1) |
 | [Matriky, kniha č. 594 (fara Lomnice), 1914-1929](https://www.mza.cz/actapublica/matrika/detail/13) | matrika |  |  |  | 3 (O 3) |
 | [Častohostice, oddaní 1888–1949](https://www.mza.cz/actapublica/matrika/detail/13314) | matrika | 1888–1949 |  |  | 1 (O 1) |
@@ -1093,12 +1094,13 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Brod nad Dyjí (fara), O 1784–1868, kniha č. 2375 (Acta Publica id 2472)](https://www.mza.cz/actapublica/matrika/detail/2472) | matrika | 1784–1868 |  |  | 1 (O 1) |
 | [Drnholec (fara), O 1838–1866, kniha č. 2608 (Acta Publica id 2598)](https://www.mza.cz/actapublica/matrika/detail/2598) | matrika | 1838–1866 |  |  | 1 (O 1) |
 | [Novosedly (fara), N, O, Z 1770–1784 a rejstříky, kniha č. 3100 (Acta Publica id 3023)](https://www.mza.cz/actapublica/matrika/detail/3023) | matrika | 1770–1784 |  |  | 4 (N 2 O 1 Z 1) |
-| [Novosedly (fara), N 1784–1821, kniha č. 3101 (Acta Publica id 3024)](https://www.mza.cz/actapublica/matrika/detail/3024) | matrika | 1784–1821 |  |  | 5 (N 5) |
+| [Novosedly (fara), N 1784–1821, kniha č. 3101 (Acta Publica id 3024)](https://www.mza.cz/actapublica/matrika/detail/3024) | matrika | 1784–1821 |  |  | 6 (N 6) |
 | [Novosedly (fara), N 1822–1857, tomus IV, kniha č. 3102 (Acta Publica id 3025)](https://www.mza.cz/actapublica/matrika/detail/3025) | matrika | 1822–1857 |  |  | 8 (N 8) |
 | [Novosedly (fara), N 1858–1876, kniha č. 3103 (Acta Publica id 3026)](https://www.mza.cz/actapublica/matrika/detail/3026) | matrika | 1858–1876 |  |  | 1 (N 1) |
-| [Novosedly (fara), O 1784–1837, kniha č. 3106 (Acta Publica id 3027)](https://www.mza.cz/actapublica/matrika/detail/3027) | matrika | 1784–1837 |  |  | 3 (O 3) |
+| [Novosedly (fara), O 1784–1837, kniha č. 3106 (Acta Publica id 3027)](https://www.mza.cz/actapublica/matrika/detail/3027) | matrika | 1784–1837 |  |  | 7 (O 7) |
 | [Novosedly (fara), O 1838–1876, tomus IV, kniha č. 3107 (Acta Publica id 3028)](https://www.mza.cz/actapublica/matrika/detail/3028) | matrika | 1838–1876 |  |  | 5 (O 5) |
-| [Novosedly (fara), Z 1784–1837, kniha č. 3110 (Acta Publica id 3029)](https://www.mza.cz/actapublica/matrika/detail/3029) | matrika | 1784–1837 |  |  | 2 (Z 2) |
+| [Novosedly (fara), Z 1784–1837, kniha č. 3110 (Acta Publica id 3029)](https://www.mza.cz/actapublica/matrika/detail/3029) | matrika | 1784–1837 |  |  | 4 (Z 4) |
+| [Novosedly (fara), Z Novosedly 1838–1896, kniha č. 3111, tomus IV, německy (Acta Publica id 3030)](https://www.mza.cz/actapublica/matrika/detail/3030) | matrika | 1838–1896 |  |  | 12 (Z 12) |
 | [O Malenovice 1889–1925, kniha 4134, římskokatolická fara Malenovice (Zlín-Malenovice); rejstřík na konci knihy (sn. ~195–212, P = sn. 205)](https://www.mza.cz/actapublica/matrika/detail/307) | matrika | 1889–1925 |  |  | 1 (O 1) |
 | [Křetín, rejstřík narozených 1694–1783 (Acta Publica id 3217, č. knihy 406)](https://www.mza.cz/actapublica/matrika/detail/3217) | matrika |  |  |  | 3 (J 3) |
 | [Křetín, rejstřík oddaných 1695–1844 (Acta Publica id 3220, č. knihy 409)](https://www.mza.cz/actapublica/matrika/detail/3220) | matrika |  |  |  | 3 (J 3) |
@@ -1172,7 +1174,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [564](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=564&folium=676) | policejní přihlášky |  |  |  | 2 (S 2) |
 | [596](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=596&folium=258) | policejní přihlášky |  |  |  | 4 (S 4) |
 
-## FamilySearch – digitalizované fondy českých archivů (44)
+## FamilySearch – digitalizované fondy českých archivů (54)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1206,6 +1208,16 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Valašské Meziříčí (fara), Z Jarcová 1800–1897, sign. VM I 44, inv. č. 2207 – snímky ZA Opava na FamilySearch, film DGS 005390450](https://www.familysearch.org/search/film/005390450) | matrika | 1800–1897 |  |  | 3 (Z 3) |
 | [Valašské Meziříčí (fara), Z Krhová 1800–1896, sign. VM I 46, inv. č. 2209 – snímky ZA Opava na FamilySearch, film DGS 005390452](https://www.familysearch.org/search/film/005390452) | matrika | 1800–1896 |  |  | 16 (Z 16) |
 | [Rožnov pod Radhoštěm (fara), N fary Rožnov pod Radhoštěm 1735–1770, latinsky, chronologicky s obcí u zápisu – snímky ZA Opava na FamilySearch, film DGS 005390545](https://www.familysearch.org/search/film/005390545) | matrika | 1735–1770 |  |  | 1 (N 1) |
+| [Slezská Ostrava (fara), Z, I-Z Slezská Ostrava a okolí 1894–1907 = SO VII 29, Tom. V – snímky ZA Opava na FamilySearch, film DGS 005392171](https://www.familysearch.org/search/film/005392171) | matrika | 1894–1907 |  |  | 1 (Z 1) |
+| [Slezská Ostrava (fara), Z Slezská Ostrava a okolí 1785–1830 (kniha po obcích) – snímky ZA Opava na FamilySearch, film DGS 005392469](https://www.familysearch.org/search/film/005392469) | matrika | 1785–1830 |  |  | 1 (Z 1) |
+| [Slezská Ostrava (fara), Z fara Slezská (Polská) Ostrava 1827–1855, vol. 3093 – snímky ZA Opava na FamilySearch, film DGS 005392475](https://www.familysearch.org/search/film/005392475) | matrika | 1827–1855 |  |  | 2 (Z 2) |
+| [Slezská Ostrava (fara), Z, I-Z Slezská Ostrava a okolí 1856–1873, vol. 3094, Tom. III – snímky ZA Opava na FamilySearch, film DGS 005392476](https://www.familysearch.org/search/film/005392476) | matrika | 1856–1873 |  |  | 3 (Z 3) |
+| [Slezská Ostrava (fara), N Slezská Ostrava a okolí 1875–1881, Tom. V, vol. 3096 – snímky ZA Opava na FamilySearch, film DGS 005392478](https://www.familysearch.org/search/film/005392478) | matrika | 1875–1881 |  |  | 1 (N 1) |
+| [Slezská Ostrava (fara), O, I-O Slezská Ostrava a okolí 1859–1884, vol. 3098 = SO VII 18, Tom. III – snímky ZA Opava na FamilySearch, film DGS 005392480](https://www.familysearch.org/search/film/005392480) | matrika | 1859–1884 |  |  | 1 (O 1) |
+| [Slezská Ostrava (fara), N Slezská Ostrava a okolí 1894–1896, vol. 3101, Tom. IX – snímky ZA Opava na FamilySearch, film DGS 005392483](https://www.familysearch.org/search/film/005392483) | matrika | 1894–1896 |  |  | 2 (N 2) |
+| [Slezská Ostrava (fara), O Slezská Ostrava a okolí 1892–1900, vol. 3106, Tom. V – snímky ZA Opava na FamilySearch, film DGS 005392490](https://www.familysearch.org/search/film/005392490) | matrika | 1892–1900 |  |  | 1 (O 1) |
+| [Slezská Ostrava (fara), Z, I-Z Františkov, Hladnov, Hranečník, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1871–1893, sign. SO VII 28, inv. č. 3108, německy – snímky ZA Opava na FamilySearch, film DGS 005392492](https://www.familysearch.org/search/film/005392492) | matrika | 1871–1893 |  |  | 2 (Z 2) |
+| [Slezská Ostrava (fara), Z Slezská Ostrava a okolí 1908–1917 = SO VII 33 – snímky ZA Opava na FamilySearch, film DGS 005392829](https://www.familysearch.org/search/film/005392829) | matrika | 1908–1917 |  |  | 1 (Z 1) |
 | [Zašová (fara), N, O, Z Zašová 1785–1853, inv. č. 2346 – snímky ZA Opava na FamilySearch, film DGS 005393023](https://www.familysearch.org/search/film/005393023) | matrika | 1785–1853 |  |  | 1 (O 1) |
 | [Kostelec nad Vltavou, oddaní 1785–1828 (Marriages v. 5; SOA Třeboň, Kostelec nad Vltavou 5)](https://www.familysearch.org/search/catalog/olib:3041041) | matrika | 1785–1828 |  |  | 35 (O 35) |
 | [Kovářov, oddaní 1785–1838 (Marriages v. 12; SOA Třeboň, Kovářov 12)](https://www.familysearch.org/ark:/61903/3:1:3QS7-L93W-6L6T?cat=olib%3A2029790) | matrika | 1785–1838 |  |  | 9 (O 9) |
@@ -1221,6 +1233,12 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [MZA, Batelov, pozemková kniha dominikálních domků (židovské domy) B04900, 1791–1850 (FamilySearch DGS 104715711)](https://www.familysearch.org/search/film/104715711) | pozemková kniha | 1791–1850 |  |  | 4 (J 1 P 3) |
 | [MZA, Batelov, pozemková kniha domů městečka B04888 („Hauptbuch der Gemeinde Battelau“), 1779–1882 (FamilySearch DGS 104818118)](https://www.familysearch.org/search/film/104818118) | pozemková kniha | 1779–1882 |  |  | 4 (P 4) |
 
+## zob (1)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
+
 ## cuzk (8)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1234,7 +1252,32 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Maňovice (Maniowitz), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu ve větším měřítku (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA380018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
 | [Dol (u Sedlic), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA426018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
 
-## zaopava (192)
+## ndk (5)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
+| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
+| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
+
+## nacr (10)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [inv. č. 1408 (Nový Bydžov N)](https://vademecum.nacr.cz/vademecum/permalink?xid=425dc3e2-2075-478d-890b-833ced1107cd) | matrika |  |  |  | 1 (N 1) |
+| [inv. č. 1547 (Plzeň, narození 1901–1915)](https://vademecum.nacr.cz/vademecum/permalink?xid=65bd0468-79cf-4bbc-8ec9-e5cd3bacb1f6) | matrika |  |  |  | 1 (N 1) |
+| [inv. č. 2677 (Praha, oddaní 1881)](https://vademecum.nacr.cz/vademecum/permalink?xid=c96bd90d-00c8-49b1-9919-82a9c516939f) | matrika |  |  |  | 1 (O 1) |
+| [inv. č. 2709 (Praha, oddaní 1913)](https://vademecum.nacr.cz/vademecum/permalink?xid=d8b27e9f-a023-4520-9d52-4ce2158cf3f1) | matrika |  |  |  | 2 (O 2) |
+| [inv. č. 2713 (Praha, oddaní 1917)](https://vademecum.nacr.cz/vademecum/permalink?xid=dd5e2abb-1aa6-4b1c-b1b2-fef16f57a3a3) | matrika |  |  |  | 1 (O 1) |
+| [Náchod, inv. č. 1340, N 1866–1873 (s indexem; duplikát, Tom VIII–XI)](https://vademecum.nacr.cz/vademecum/permalink?xid=e0c4568a-a325-4d10-b8d8-64c1dfb403df) | matrika | 1866–1873 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1341, N 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=26db411b-4bc5-467e-b248-3b48c7ba5f05) | matrika | 1874–1901 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1342, N 1900–1940, 1942–1949 (index pro roky 1901–1904)](https://vademecum.nacr.cz/vademecum/permalink?xid=f410698d-1da7-4eef-bd85-c72d9d5442fb) | matrika | 1900–1940 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
+| [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
+
+## zaopava (196)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1269,6 +1312,8 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Staříč (fara), O Nová Staříč, Stará Staříč 1784–1892, sign. M XII 10, inv. č. 1798](https://digi.archives.cz/da/permalink/be86ae72-f13c-102f-8255-0050568c0263) | matrika | 1784–1892 |  |  | 4 (O 4) |
 | [Staříč (fara), N, Z, O Chlebovice, Staříč 1707–1784, sign. M XII 2, inv. č. 1790](https://digi.archives.cz/da/permalink/be86aac6-f13c-102f-8255-0050568c0263) | matrika | 1707–1784 |  |  | 8 (N 4 O 4) |
 | [Staříč (fara), N Nová Staříč, Staříč 1784–1857, sign. M XII 3, inv. č. 1791](https://digi.archives.cz/da/permalink/be86ab34-f13c-102f-8255-0050568c0263) | matrika | 1784–1857 |  |  | 2 (N 2) |
+| [Moravská Ostrava (fara), O, I-O Moravská Ostrava 1894–1900, sign. MO I 35, inv. č. 1835, česky (část německy)](https://digi.archives.cz/da/permalink/be86c114-f13c-102f-8255-0050568c0263) | matrika | 1894–1900 |  |  | 1 (O 1) |
+| [Moravská Ostrava (fara), Z, I-Z Moravská Ostrava 1882–1889, sign. MO I 36, inv. č. 1836, česky](https://digi.archives.cz/da/permalink/be86c182-f13c-102f-8255-0050568c0263) | matrika | 1882–1889 |  |  | 1 (Z 1) |
 | [Moravská Ostrava (fara), N Moravská Ostrava 1909–1912, sign. MO I 63, inv. č. 11927, pův. sign. 19](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:-10ce535a:1453af90ff7:-7ec6) | matrika | 1909–1912 |  |  | 1 (N 1) |
 | [Stará Bělá (fara), N Stará Bělá 1784–1835, sign. MO VI 4, inv. č. 1880](https://digi.archives.cz/da/permalink/be86da50-f13c-102f-8255-0050568c0263) | matrika | 1784–1835 |  |  | 1 (N 1) |
 | [Nový Jičín (fara), N Nový Jičín 1836–1846, sign. NJ I 10, inv. č. 1980](https://digi.archives.cz/da/permalink/be870d54-f13c-102f-8255-0050568c0263) | matrika | 1836–1846 |  |  | 1 (N 1) |
@@ -1281,15 +1326,17 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Hukvaldy (fara), Z Horní Sklenov a Hukvaldy 1886–1914, sign. P XIa 5, inv. č. 8710](https://digi.archives.cz/da/permalink/be8eddea-f13c-102f-8255-0050568c0263) | matrika | 1886–1914 |  |  | 2 (Z 2) |
 | [Hukvaldy (fara), N, I-N Hukvaldy a Horní Sklenov 1892–1909, sign. P XIa 7, inv. č. 13128](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:13335513:1461387f2e0:-7ec0) | matrika | 1892–1909 |  |  | 4 (N 4) |
 | [Vlkoš (fara), O, I-O Bochoř, Chropyně, Kanovsko, Kyselovice, Plešovec, Věžky, Vlkoš, Záříčí 1704–1848, sign. Př XVII 8, inv. č. 7352](https://digi.archives.cz/da/permalink/be9443f2-f13c-102f-8255-0050568c0263) | matrika | 1704–1848 |  |  | 1 (O 1) |
-| [Slezská Ostrava (fara), N Františkov, Hladnov, Hranečník, Hrušov, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1861–1870 (Tom. V/a), sign. SO VII 11, inv. č. 3091](https://digi.archives.cz/da/permalink/be895442-f13c-102f-8255-0050568c0263) | matrika | 1861–1870 |  |  | 1 (N 1) |
+| [Slezská Ostrava (fara), N Františkov, Hladnov, Hranečník, Hrušov, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1861–1870 (Tom. V/a), sign. SO VII 11, inv. č. 3091](https://digi.archives.cz/da/permalink/be895442-f13c-102f-8255-0050568c0263) | matrika | 1861–1870 |  |  | 5 (N 5) |
 | [Slezská Ostrava (fara), O, I-O Františkov, Heřmanice, Hladnov, Hranečník, Hrušov, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1829–1858, sign. SO VII 12, inv. č. 3092](https://digi.archives.cz/da/permalink/be8954c4-f13c-102f-8255-0050568c0263) | matrika | 1829–1858 |  |  | 2 (O 2) |
-| [Slezská Ostrava (fara), N, I-N Františkov, Heřmanice, Hladnov, Hranečník, Hrušov, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí, Zárubek 1861–1875, sign. SO VII 15, inv. č. 3095](https://digi.archives.cz/da/permalink/be895668-f13c-102f-8255-0050568c0263) | matrika | 1861–1875 |  |  | 2 (N 2) |
+| [Slezská Ostrava (fara), N, I-N Františkov, Heřmanice, Hladnov, Hranečník, Hrušov, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí, Zárubek 1861–1875, sign. SO VII 15, inv. č. 3095](https://digi.archives.cz/da/permalink/be895668-f13c-102f-8255-0050568c0263) | matrika | 1861–1875 |  |  | 4 (N 4) |
+| [Slezská Ostrava (fara), N, I-N Františkov, Heřmanice, Hladnov, Hranečník, Hrušov, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí, Zárubek 1876–1881 (Tom. V), sign. SO VII 16, inv. č. 3096, německy](https://digi.archives.cz/da/permalink/be8956f4-f13c-102f-8255-0050568c0263) | matrika | 1876–1881 |  |  | 1 (N 1) |
 | [Slezská Ostrava (fara), N, I-N Františkov, Heřmanice, Hladnov, Hranečník, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí, Zárubek 1882–1886 (Tom. VI), sign. SO VII 17, inv. č. 3097](https://digi.archives.cz/da/permalink/be895780-f13c-102f-8255-0050568c0263) | matrika | 1882–1886 |  |  | 1 (N 1) |
 | [Slezská Ostrava (fara), O, I-O Františkov, Heřmanice, Hladnov, Hranečník, Hrušov, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1859–1884 (Tom. III), sign. SO VII 18, inv. č. 3098](https://digi.archives.cz/da/permalink/be895816-f13c-102f-8255-0050568c0263) | matrika | 1859–1884 |  |  | 1 (O 1) |
-| [Slezská Ostrava (fara), Z, I-Z Františkov, Hladnov, Hranečník, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1871–1893, sign. SO VII 28, inv. č. 3108](https://digi.archives.cz/da/permalink/be895dde-f13c-102f-8255-0050568c0263) | matrika | 1871–1893 |  |  | 1 (Z 1) |
+| [Slezská Ostrava (fara), Z, I-Z Františkov, Hladnov, Hranečník, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1871–1893, sign. SO VII 28, inv. č. 3108](https://digi.archives.cz/da/permalink/be895dde-f13c-102f-8255-0050568c0263) | matrika | 1871–1893 |  |  | 5 (Z 5) |
 | [Slezská Ostrava (fara), N, I-N Slezská Ostrava, Hranečník, Kunčičky, Křivec, Radvanice, Heřmanice, Jaklovec, Muglinov, Kamenec, Michálkovice, Zárubek 1900–1902, sign. SO VII 35, inv. č. 10802](https://digi.archives.cz/da/permalink/be917f32-f13c-102f-8255-0050568c0263) | matrika | 1900–1902 |  |  | 1 (N 1) |
 | [Slezská Ostrava (fara), N, I-N Hranečník, Jaklovec, Kamenec, Kunčičky, Radvanice, Slezská Ostrava, Muglinov 1905–1908, sign. SO VII 37, inv. č. 10804](https://digi.archives.cz/da/permalink/be918018-f13c-102f-8255-0050568c0263) | matrika | 1905–1908 |  |  | 1 (N 1) |
 | [Slezská Ostrava (fara), N Heřmanice, Hladnov, Horní Datyně, Hrušov, Křivec, Kunčice, Kunčičky, Lipina, Michálkovice, Muglinov, Podborčí, Popinec, Radvanice, Rakovec, Slezská Ostrava, Švrkl, Vratimov, Zámostí, Zárubek 1781–1837, sign. SO VII 4, inv. č. 3084](https://digi.archives.cz/da/permalink/be895000-f13c-102f-8255-0050568c0263) | matrika | 1781–1837 |  |  | 2 (N 2) |
+| [Slezská Ostrava (fara), Z Muglinov, Slezská Ostrava 1930–1944, sign. SO VII 47, inv. č. 13603](https://digi.archives.cz/da/permalink/29e3f91ac933f2f4:-2f6a35b5:1416dd44d60:-7c71) | matrika | 1930–1944 |  |  | 1 (Z 1) |
 | [Slezská Ostrava (fara), O Heřmanice, Hladnov, Horní Datyně, Hrušov, Křivec, Kunčice, Kunčičky, Lipina, Michálkovice, Muglinov, Podborčí, Popinec, Radvanice, Rakovec, Slezská Ostrava, Švrkl, Vratimov, Zámostí, Zárubek 1784–1829, sign. SO VII 5, inv. č. 3085](https://digi.archives.cz/da/permalink/be89508c-f13c-102f-8255-0050568c0263) | matrika | 1784–1829 |  |  | 1 (O 1) |
 | [Slezská Ostrava (fara), N, Z, O, I-N, I-Z, I-O Hladnov, Hranečník, Hrušov, Jaklovec, Křivec, Kunčičky, Lipina, Michálkovice, Muglinov, Podborčí, Popinec, Radvanice, Slezská Ostrava, Švrkl, Zámostí 1792–1859, sign. SO VII 9, inv. č. 3089](https://digi.archives.cz/da/permalink/be89530c-f13c-102f-8255-0050568c0263) | matrika | 1792–1859 |  |  | 4 (N 3 O 1) |
 | [Šenov (fara), N, I-N Šenov 1867–1897, sign. SO VIII 10, inv. č. 3120](https://digi.archives.cz/da/permalink/be8963f6-f13c-102f-8255-0050568c0263) | matrika | 1867–1897 |  |  | 1 (N 1) |
@@ -1430,34 +1477,3 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1810–1849, sign. Zá IV 5, inv. č. 8380](https://digi.archives.cz/da/permalink/be97a79a-f13c-102f-8255-0050568c0263) | matrika | 1810–1849 |  |  | 3 (N 3) |
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1850–1898, sign. Zá IV 7, inv. č. 8382](https://digi.archives.cz/da/permalink/be97f934-f13c-102f-8255-0050568c0263) | matrika | 1850–1898 |  |  | 7 (N 7) |
 | [Dubicko (fara), O, I-O Bohuslavice, Brníčko, Dubicko, Hrabová, Kolšov, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 9, inv. č. 8384](https://digi.archives.cz/da/permalink/be97aa74-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 1 (O 1) |
-
-## zob (1)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
-
-## ndk (5)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
-| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
-| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
-
-## nacr (10)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [inv. č. 1408 (Nový Bydžov N)](https://vademecum.nacr.cz/vademecum/permalink?xid=425dc3e2-2075-478d-890b-833ced1107cd) | matrika |  |  |  | 1 (N 1) |
-| [inv. č. 1547 (Plzeň, narození 1901–1915)](https://vademecum.nacr.cz/vademecum/permalink?xid=65bd0468-79cf-4bbc-8ec9-e5cd3bacb1f6) | matrika |  |  |  | 1 (N 1) |
-| [inv. č. 2677 (Praha, oddaní 1881)](https://vademecum.nacr.cz/vademecum/permalink?xid=c96bd90d-00c8-49b1-9919-82a9c516939f) | matrika |  |  |  | 1 (O 1) |
-| [inv. č. 2709 (Praha, oddaní 1913)](https://vademecum.nacr.cz/vademecum/permalink?xid=d8b27e9f-a023-4520-9d52-4ce2158cf3f1) | matrika |  |  |  | 2 (O 2) |
-| [inv. č. 2713 (Praha, oddaní 1917)](https://vademecum.nacr.cz/vademecum/permalink?xid=dd5e2abb-1aa6-4b1c-b1b2-fef16f57a3a3) | matrika |  |  |  | 1 (O 1) |
-| [Náchod, inv. č. 1340, N 1866–1873 (s indexem; duplikát, Tom VIII–XI)](https://vademecum.nacr.cz/vademecum/permalink?xid=e0c4568a-a325-4d10-b8d8-64c1dfb403df) | matrika | 1866–1873 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1341, N 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=26db411b-4bc5-467e-b248-3b48c7ba5f05) | matrika | 1874–1901 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1342, N 1900–1940, 1942–1949 (index pro roky 1901–1904)](https://vademecum.nacr.cz/vademecum/permalink?xid=f410698d-1da7-4eef-bd85-c72d9d5442fb) | matrika | 1900–1940 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
-| [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
