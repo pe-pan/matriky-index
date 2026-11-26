@@ -96,7 +96,9 @@ VELKY_PR = 150
 NIZKA_JISTOTA_PODIL = 0.3
 # Zápisy v precteno.tsv jsou doslovné; příbuzenství nebo ztotožnění, které v zápisu není, je výklad a patří do
 # rodokmenu přispěvatele. Slovo ale může stát i v českém zápisu („bratr nevěsty“), proto jen k posouzení.
-VYKLAD_SLOVA = re.compile(r"\b(sestr\w*|bratr\w*|švagr\w*|tch[áy]n\w*|zeť\w*|snach\w*|vnu[kč]\w*|strýc\w*|teta|tety|"
+# Bratr a sestra jen ve skloňovaných tvarech: předpona by chytala místní jména (Bratronice, Sestrouň).
+VYKLAD_SLOVA = re.compile(r"\b(sestr(?:a|y|u|o|ou|ám|ách|ami)|sester|sestř(?:e|in\w*)|"
+                          r"bratr(?:a|u|ovi|e|em|ů|ům|y|ech|ův|ov[aoyéuě]\w*)?|bratř[ií]|švagr\w*|tch[áy]n\w*|zeť\w*|snach\w*|vnu[kč]\w*|strýc\w*|teta|tety|"
                           r"neteř\w*|synov[ec]\w*|sestřenic\w*|bratran\w*|totožn\w*|ztotožn\w*|před(?:ek|k\w+)|"
                           r"praděd\w*|prabab\w*|prapra\w*|rodokmen\w*|pravděpodobně|nejspíš|tentýž|tatáž|náš|naše\w*|"
                           r"můj|moje\w*)\b", re.I)
