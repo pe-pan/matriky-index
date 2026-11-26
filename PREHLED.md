@@ -2,13 +2,13 @@
 
 Stav k 26. 11. 2026 (generuje `python tools/prehled.py`).
 
-- **1455 knih** (matrika 1368, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
-- **11 414 stran** převedených strojově (PERO OCR), **2 195 232 řádků** strojového textu – nekontrolovaný, slouží k hledání
-- **55 293 zápisů přečtených očima**: narození 21398, sňatky 9299, úmrtí 23245, převody gruntů 63, soupisy 203, jiné 1056
+- **1463 knih** (matrika 1376, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
+- **11 947 stran** převedených strojově (PERO OCR), **2 329 696 řádků** strojového textu – nekontrolovaný, slouží k hledání
+- **55 367 zápisů přečtených očima**: narození 21457, sňatky 9308, úmrtí 23251, převody gruntů 63, soupisy 203, jiné 1056
 
 Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečtené člověkem nebo modelem se zdrojem a jistotou (N narození, O sňatky, Z úmrtí, P převody gruntů, S soupisy, J jiné). Skeny v indexu nejsou – odkaz vede na portál archivu.
 
-## SOA Plzeň – Porta fontium (135)
+## SOA Plzeň – Porta fontium (137)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -102,7 +102,9 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Malý Bor 26](https://www.portafontium.eu/register/soap-pn/maly-bor-26) | matrika |  |  |  | 2 (Z 2) |
 | [Merklín 30](https://www.portafontium.eu/register/soap-pn/merklin-30) | matrika |  | 66 | 17492 | 3 (J 3) |
 | [Mirošov 03](https://www.portafontium.eu/register/soap-pn/mirosov-03) | matrika | 1736–1759 | 225 | 28902 | 51 (N 47 Z 4) |
-| [Mirošov 05](https://www.portafontium.eu/register/soap-pn/mirosov-05) | matrika | 1740–1811 | 163 | 35352 | 1 (O 1) |
+| [Mirošov 04](https://www.portafontium.eu/register/soap-pn/mirosov-04) | matrika | 1752–1764 | 170 | 19984 | 5 (N 5) |
+| [Mirošov 05](https://www.portafontium.eu/register/soap-pn/mirosov-05) | matrika | 1740–1811 | 163 | 35352 | 5 (O 5) |
+| [Mirošov 06](https://www.portafontium.eu/register/soap-pn/mirosov-06) | matrika | 1765–1845 | 363 | 114480 | 25 (N 25) |
 | [Myslív 02](https://www.portafontium.eu/register/soap-pn/mysliv-02) | matrika | 1685–1727 |  |  | 553 (N 552 O 1) |
 | [Mýto 02](https://www.portafontium.eu/register/soap-pn/myto-02) | matrika | 1706–1741 | 289 | 55456 | 35 (N 21 O 10 Z 4) |
 | [Mýto 03](https://www.portafontium.eu/register/soap-pn/myto-03) | matrika | 1742–1757 | 368 | 39793 | 25 (N 18 O 5 Z 2) |
@@ -644,7 +646,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Kolín, židovská matrika Z 1847–1865 (NA HBMa inv. 835)](https://zayt.org/collections/jewish-registers-1784-1949/z-835) | matrika | 1847–1865 |  |  | 5 (J 2 Z 3) |
 | [Kolín, židovská matrika Z 1866–1915, 1917–1949, NA HBMa inv. 836](https://zayt.org/collections/jewish-registers-1784-1949/z-836) | matrika | 1866–1915 |  |  | 1 (Z 1) |
 
-## SOA Praha – eBadatelna (193)
+## SOA Praha – eBadatelna (194)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -814,7 +816,8 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Minice 20, N 1864–1885 (Kralupy nad Vltavou)](https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8594) | matrika | 1864–1885 |  |  | 3 (N 3) |
 | [Minice 22, N 1864–1887 (Lobeč)](https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8596) | matrika | 1864–1887 |  |  | 1 (N 1) |
 | [Minice 26, Z 1871–1895 (Kralupy nad Vltavou, Lobeč)](https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8600) | matrika | 1871–1895 |  |  | 2 (Z 2) |
-| [Zbečno 02 (8792)](https://ebadatelna.soapraha.cz/d/8792/) | matrika | 1715–1724 |  |  | 6 (N 3 O 3) |
+| [Zbečno 01 (8790)](https://ebadatelna.soapraha.cz/d/8790/) | matrika | 1658–1714 |  |  | 7 (N 5 O 2) |
+| [Zbečno 02 (8792)](https://ebadatelna.soapraha.cz/d/8792/) | matrika | 1715–1724 |  |  | 9 (N 3 O 3 Z 3) |
 | [Zbečno 03 (8794)](https://ebadatelna.soapraha.cz/d/8794/) | matrika |  |  |  | 23 (N 1 O 3 Z 19) |
 | [Zbečno 04, narození 1754](https://ebadatelna.soapraha.cz/d/8849/) | matrika |  |  |  | 7 (N 3 O 4) |
 | [Zbečno 06 (N 1781–1784)](https://ebadatelna.soapraha.cz/d/8851/) | matrika |  |  |  | 1 (N 1) |
@@ -1196,7 +1199,7 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [564](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=564&folium=676) | policejní přihlášky |  |  |  | 2 (S 2) |
 | [596](http://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=596&folium=258) | policejní přihlášky |  |  |  | 4 (S 4) |
 
-## FamilySearch – digitalizované fondy českých archivů (72)
+## FamilySearch – digitalizované fondy českých archivů (77)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1259,7 +1262,12 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Šenov (fara), O, I-O Bartovice, Šenov, Václavovice 1841–1870, sign. SO VIII 16, inv. č. 3126 – snímky ZA Opava na FamilySearch, film DGS 005392509](https://www.familysearch.org/search/film/005392509) | matrika | 1841–1870 |  |  | 1 (O 1) |
 | [Slezská Ostrava (fara), Z Slezská Ostrava a okolí 1908–1917 = SO VII 33 – snímky ZA Opava na FamilySearch, film DGS 005392829](https://www.familysearch.org/search/film/005392829) | matrika | 1908–1917 |  |  | 1 (Z 1) |
 | [Zašová (fara), N, O, Z Zašová 1785–1853, inv. č. 2346 – snímky ZA Opava na FamilySearch, film DGS 005393023](https://www.familysearch.org/search/film/005393023) | matrika | 1785–1853 |  |  | 1 (O 1) |
+| [Radomyšl, křty, sňatky, pohřby 1733–1768 (Baptisms, marriages, burials v. 3; SOA Třeboň, Radomyšl 3)](https://www.familysearch.org/search/catalog/film?dgs=005686811&i=0) | matrika | 1733–1768 |  |  | 10 (N 8 O 2) |
+| [Mirovice, křty, sňatky, pohřby 1708–1742 (Baptisms, marriages, burials v. 2; SOA Třeboň, Mirovice 2)](https://www.familysearch.org/search/catalog/film?dgs=005695647&cat=3041160&i=0) | matrika | 1708–1742 |  |  | 2 (N 1 Z 1) |
+| [Mirovice, křty, sňatky, pohřby 1743–1760 (v. 3; SOA Třeboň, Mirovice 3)](https://www.familysearch.org/search/catalog/film?dgs=005695648&cat=3041160&i=0) | matrika | 1743–1760 |  |  | 2 (Z 2) |
+| [Mirovice, křty 1751–1784 (Baptisms v. 4; SOA Třeboň, Mirovice 4)](https://www.familysearch.org/search/catalog/film?dgs=005695649&cat=3041160&i=0) | matrika | 1751–1784 |  |  | 15 (N 15) |
 | [Kostelec nad Vltavou, oddaní 1785–1828 (Marriages v. 5; SOA Třeboň, Kostelec nad Vltavou 5)](https://www.familysearch.org/search/catalog/olib:3041041) | matrika | 1785–1828 |  |  | 35 (O 35) |
+| [Mirovice, pohřby 1784–1806 (Burials v. 16; SOA Třeboň, Mirovice 16)](https://www.familysearch.org/search/catalog/film?dgs=005696337&cat=3041160&i=0) | matrika | 1784–1806 |  |  | 1 (O 1) |
 | [Kovářov, oddaní 1785–1838 (Marriages v. 12; SOA Třeboň, Kovářov 12)](https://www.familysearch.org/ark:/61903/3:1:3QS7-L93W-6L6T?cat=olib%3A2029790) | matrika | 1785–1838 |  |  | 9 (O 9) |
 | [Kovářov, zemřelí 1785–1838 (Burials v. 16; SOA Třeboň, Kovářov 16)](https://www.familysearch.org/search/catalog/film?dgs=005697292&cat=2029790&i=0) | matrika | 1785–1838 |  |  | 77 (Z 77) |
 | [Kovářov, křty, oddaní a zemřelí 1687–1768 (Baptisms, marriages, burials v. 6; SOA Třeboň, Kovářov 6)](https://www.familysearch.org/search/catalog/film?dgs=005697303&cat=2029790&i=0) | matrika | 1687–1768 |  |  | 4 (O 4) |
@@ -1489,12 +1497,6 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1850–1898, sign. Zá IV 7, inv. č. 8382](https://digi.archives.cz/da/permalink/be97f934-f13c-102f-8255-0050568c0263) | matrika | 1850–1898 |  |  | 7 (N 7) |
 | [Dubicko (fara), O, I-O Bohuslavice, Brníčko, Dubicko, Hrabová, Kolšov, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 9, inv. č. 8384](https://digi.archives.cz/da/permalink/be97aa74-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 1 (O 1) |
 
-## zob (1)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
-
 ## ndk (5)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1504,6 +1506,12 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
 | [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
 | [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
+
+## zob (1)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
 
 ## nacr (10)
 
